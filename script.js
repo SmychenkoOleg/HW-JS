@@ -1,8 +1,8 @@
-const windowInnerWidth = window.screen.availWidth;
+const windowInnerWidth = window.innerWidth;
 let w = 100;
 
 function blockWidth1(){
-  if (w <= windowInnerWidth ) {
+  if (w <= windowInnerWidth-20 ) {
   w++;
   document.querySelector('.out1').style.width = w + 'px';
   console.log(w);
@@ -14,7 +14,7 @@ function blockWidth1(){
 }
 
 function blockWidth2(){
-  if (w <= windowInnerWidth ) {
+  if (w <= windowInnerWidth-20 ) {
   w++;
   document.querySelector('.out2').style.width = w + 'px';
   console.log(w);
