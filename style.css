@@ -12,26 +12,26 @@ h2 {
 
 .out1 {
   font-size: 20px;
-  color: rgb(41, 247, 247);
+  color: rgb(253, 249, 0);
   font-weight: bold;
   text-align: center;
   line-height: 100px;
   width: 100px;
   height: 100px;
-  background: #244092;
+  background: #0036d6;
   margin: 0 auto;
 
 }
 
 .out2 {
   font-size: 20px;
-  color: rgb(255, 238, 0);
+  color: rgb(0, 38, 255);
   font-weight: bold;
   text-align: center;
   line-height: 100px;
   width: 100px;
   height: 100px;
-  background: #996699;
+  background: #fde400;
   margin: 0 auto;
 
 }
