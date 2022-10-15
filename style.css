@@ -11,25 +11,27 @@ h2 {
 }
 
 .out1 {
-  color: yellow;
+  font-size: 20px;
+  color: rgb(41, 247, 247);
   font-weight: bold;
   text-align: center;
   line-height: 100px;
   width: 100px;
   height: 100px;
-  background: #569;
+  background: #244092;
   margin: 0 auto;
 
 }
 
 .out2 {
-  color: rgb(72, 255, 0);
+  font-size: 20px;
+  color: rgb(255, 238, 0);
   font-weight: bold;
   text-align: center;
   line-height: 100px;
   width: 100px;
   height: 100px;
-  background: #969;
+  background: #996699;
   margin: 0 auto;
 
 }
