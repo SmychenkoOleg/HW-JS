@@ -25,8 +25,6 @@ function blockWidth2(){
   }
 }
 
-
-
   document.querySelector('.out1').addEventListener('mousemove', blockWidth1);
   document.querySelector('.out2').addEventListener('mousemove', blockWidth2);
 
